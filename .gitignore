@@ -1,0 +1,13 @@
+# Godot 4 specific
+.godot/
+*.translation
+
+# Export builds
+export_presets.cfg
+builds/
+dist/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.tmp
